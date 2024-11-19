@@ -6,8 +6,8 @@
 
 2024 Maker Fair的小作品，放在SZDIY下面展出。观众可以将手指按压在指定位置十秒钟，即可得到机器为你量身打造的粗略心率曲线图，并且会有相应的小动物代表心率水平 ;-)
 
-![1](/image/IMG_8191.HEIC)
-![2](/image/IMG_8191.HEIC)
+![1](/image/IMG_8191.jpg)
+![2](/image/IMG_8191.jpg)
 
 ## Detail
 
